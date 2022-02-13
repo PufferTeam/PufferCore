@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "net.pufferteam.puffercore.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "superpackutils.refmap.json",
+  "mixins": [],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}
